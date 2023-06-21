@@ -634,7 +634,7 @@ section {
 .contact-content-con .right-contact .submit-btn {
   border-radius: 30px;
   background-color: var(--color-gray-5);
-  color: inherit;
+  color: red;
   font-weight: 600;
   position: relative;
   border: 1px solid var(--color-secondary);
