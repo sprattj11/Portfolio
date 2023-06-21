@@ -640,8 +640,30 @@ section{
             }
         }
         .submit-btn{
+            border-radius: 30px;
+            background-color: var(--color-gray-5);
+            color: inherit;
+            font-weight: 600;
+            position: relative;
+            border: 1px solid var(--color-secondary);
             display: flex;
-            justify-content: flex-start;
+            align-self: flex-start;
+            display: flex;
+            align-items: center;
+            overflow: hidden;
+            .btn-text{
+                color: var(--color-secondary);
+                padding: 0 2rem;
+            }
+            .btn-icon{
+                background-color: var(--color-secondary);
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                border-radius: 50%;
+                padding: 1rem;
+            }
+            
         }
     }
 }
@@ -720,3 +742,6 @@ section{
         }
     }
 }
+
+
+//@import './media';
