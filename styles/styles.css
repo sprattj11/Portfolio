@@ -343,6 +343,12 @@ section {
 .about-stats .progress-bars .progress-bar .progress-con .progress .css {
   width: 50%;
 }
+.about-stats .progress-bars .progress-bar .progress-con .progress .python {
+  width: 40%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .linux {
+  width: 80%;
+}
 
 .stat-title {
   text-transform: uppercase;
