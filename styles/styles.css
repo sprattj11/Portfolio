@@ -335,16 +335,16 @@ section {
   width: 60%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .cpp {
-  width: 75%;
+  width: 80%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .Java {
   width: 90%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .css {
-  width: 50%;
+  width: 60%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .python {
-  width: 40%;
+  width: 80%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .linux {
   width: 80%;
@@ -460,6 +460,8 @@ section {
   font-size: 1.5rem;
   color: var(--color-white);
   margin-bottom: 1.5rem;
+  align-items: center;
+  justify-content: center;
 }
 .portfolios .portfolio-item .hover-items .icons {
   display: flex;
