@@ -47,11 +47,3 @@ Hi, I’m Jason! I’m a problem solver and automation enthusiast with a passion
 
 I’m always open to connecting, collaborating, or discussing new opportunities:  
 **Email:** sprattsj@gmail.com  
-
----
-
-## 🚀 How to Run Locally
-
-1. Clone this repository:  
-```bash
-git clone https://github.com/yourusername/portfolio-website.git
